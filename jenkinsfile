@@ -4,7 +4,7 @@ pipeline {
         // Define your environment variables here
         DIRECTORY_PATH = '/path/to/your/code'
         TESTING_ENVIRONMENT = 'TestEnv'
-        PRODUCTION_ENVIRONMENT = 'Ahsan Ellahi'  
+        PRODUCTION_ENVIRONMENT = 'Luqman Hanif'  
     }
     stages {
         stage('Build') {
